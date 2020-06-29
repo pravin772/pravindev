@@ -41,7 +41,11 @@ body {
 }
 
 .my-float{
-	margin-top: 15px;
+    margin-top: 15px;
+    color: #fff;
+}
+.my-float:hover{
+    color: #8c363e;
 }
 
 /* Basic */
